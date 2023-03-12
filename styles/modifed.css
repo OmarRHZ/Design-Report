@@ -326,6 +326,8 @@ body {
 }
 .row.White2 {
   background-color: white;
+  position: relative;
+  z-index: -1;
 }
 .row.White3 {
   background-color: white;
